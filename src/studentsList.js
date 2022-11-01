@@ -16,7 +16,7 @@ export const STUDENTS = [
         validityDate: '2008-11-11'
     },
     {
-        name: 'Dhilip',
+        name: 'Philip',
         validityDate: '2030-12-30'
     },
     {
